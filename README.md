@@ -1,6 +1,6 @@
 <h2> Hello there ! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-#### 😃 I am Divya Kelaskar. I am currently pursuing B.Sc.(Computer Science) from Gogate - Jogalekar College, Ratnagiri. I love to explore and learn about new things. 
+#### 😃 Myself Divya Kelaskar. I am currently pursuing B.Sc.(Computer Science) from Gogate - Jogalekar College, Ratnagiri. I love to explore and learn about new things. 
 #### 😇 When I am not in front of screen, I would be rather watching movies, reading books or crossing off an another item in my bucket list. 
 
 ### ⚡ My Tech Stack :
